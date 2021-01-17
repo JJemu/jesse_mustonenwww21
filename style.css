@@ -3,6 +3,18 @@ body {
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: red;
+  font-size: 16px;
+  text-decoration: underline;
+}
+a {
+	color: blue;
+	text-decoration: underline;
+}
+a:hover {
+	color: red;
+	background-color: lightblue;
+}
+img {
+	display: table-caption;
 }
