@@ -15,6 +15,10 @@ a:hover {
 	color: red;
 	background-color: lightblue;
 }
-img {
+figure {
+  display: table;
+}
+figcaption {
 	display: table-caption;
+	caption-side: top;
 }
